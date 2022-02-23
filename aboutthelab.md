@@ -8,7 +8,7 @@ subtitle: Meet our amazing lab personnel!
 ## Dr. Alfred LM Bothwell
 ### Principal Investigator
 
-<img src="/assets/img/bothwell.jpg" align = right height="300" width="200" >
+<img src="/assets/img/bothwell.jpg" align = right height="275" width="200" >
 Dr. Bothwell received his AB from Washington University and his PhD from Yale University in Sidney Altman’s lab studying RNA biogenesis in bacteria and human cells.  He did postdoctoral research at MIT in David Baltimore’s lab where he developed molecular probes for all mouse antibody genes and defined molecular properties of the murine antibody response.  He joined the Yale Medical School faculty and has studied basic properties of lymphocytes and their receptors in mouse models of infection, autoimmunity, transplantation and novel humanized mouse models of vascular disease, type 1 diabetes and cancer. Studies of human complement regulation by CD59 lead to intellectual property that was the basis for founding Alexion Pharmaceuticals.  His non-science activities include tennis, biking, hiking and mountain and rock and ice climbing. 
 <br/><br/>
 <br/><br/>
