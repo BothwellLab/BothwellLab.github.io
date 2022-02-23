@@ -3,7 +3,7 @@ layout: page
 title: About Our Lab
 subtitle: Meet our amazing lab personnel!
 ---
-<img src="../assets/img/bothwell.jpg" align="left" height="48" width="48" >
+<img src="/assets/img/bothwell.jpg" align="left" height="48" width="48" >
 
 
 ## Dr. Alfred LM Bothwell
