@@ -14,11 +14,8 @@ author: Anutr Sivakoses
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "anuttybutty.github.io"
+  Meet The Lab: "aboutthelab"
+  Publications: "anuttybutty.github.io"
 
 # --- Logo --- #
 
