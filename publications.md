@@ -11,7 +11,6 @@ Jae Hun Shin, Jaekwang Jeong, Stephen E. Maher, Heon-Woo Lee, Jaechul Lim, Alfre
 Proc Natl Acad Sci U S A. 2021 Nov 30; 118(48): e2110241118. Published online 2021 Nov 24.\
 DOI: [10.1073/pnas.2110241118](10.1073/pnas.2110241118)\
 PMC Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8640789/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8640789/)
-<br></br>
 
 
 
