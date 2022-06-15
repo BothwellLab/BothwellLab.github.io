@@ -27,12 +27,12 @@ ORCID: https://orcid.org/0000-0001-9079-0787
 # Graduate Students
 ## Haley Marcarian
 ### Graduate Student and Research Assistant
-<img src="/assets/img/haley-marcarian-headshot.jpg" align = right/>
+<img src="/assets/img/haley-marcarian-headshot.jpg" align = right height = 200/>
 Haley Marcarian received her bachelors of science from the University of Arizona Honors College in Molecular and Cellular Biology in the Spring of 2021. During her undergraduate career, Haley was as an undergraduate research assistant in the _________ lab investigating the intersection of catabolism and anabolism in the Gcv3 protein in yeast. She also was a preceptor and teaching assistant in the Molecular Biology teaching labs at the U of A, and participated as a Toxicology and Animal Resources intern at Incyte. Haley joined the Bothwell lab in the Winter of 2021 and is currently pursuing her PhD in Cancer Biology. For fun, Haley enjoys reading,   playing board games, and bullying Anutr. 
 
 ## Anutr Sivakoses
 ### Graduate Student and Research Assistant
-<img src="/assets/img/anutr-sivakoses-headshot.jpg" align = right/>
+<img src="/assets/img/anutr-sivakoses-headshot.jpg" align = right height = 200/>
 Anutr Sivakoses received his bachelors of science from the University of Nevada, Reno Honors College in Biochemistry and Molecular Biology in the Spring of 2021. In his undergraduate laboratory, he worked under Drs. Heather Burkin and Dr. Craig Ulrich to develop a three-dimensional model of human myometrial tissue. Anutr joined Dr. Bothwell's lab in the Spring of 2022 to study cancer immunology for his PhD degree. <br/><br/>
 ORCID: https://orcid.org/0000-0002-4321-4645 <br/><br/>
 LinkedIn: https://www.linkedin.com/in/anutr-sivakoses/ <br/><br/>
