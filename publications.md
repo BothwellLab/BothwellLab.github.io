@@ -5,7 +5,7 @@ subtitle: Access Papers Published by the Bothwell Group
 ---
 
 
-# 2022
+# 2021
 ### Colon cancer cells acquire immune regulatory molecules from tumor-infiltrating lymphocytes by trogocytosis
 Jae Hun Shin, Jaekwang Jeong, Stephen E. Maher, Heon-Woo Lee, Jaechul Lim, Alfred L. M. Bothwell\
 Proc Natl Acad Sci U S A. 2021 Nov 30; 118(48): e2110241118. Published online 2021 Nov 24.\
