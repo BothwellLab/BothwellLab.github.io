@@ -53,69 +53,73 @@ Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)
 Anika received her bachelors of science in Biochemistry, Molecular and Cellular Biology from the University of Arizona in the Spring of 2022. During her undergraduate career, she worked as a research assistant in the Woodson lab, studying the production of Arabidopsis quadruple mutants. She decided on the Bothwell Lab for her UROC MHD Summer Lab Rotation because the field of cancer biology was very interesting to her, as her favorite class during her undergraduate career was cancer biology.
 
 # Lab Alumni
-Bing Su, PhD <br/></br>
+Bing Su, PhD
 Director, Shanghai Institute of Immunology
 Shanghai JiaoTong University School of Medicine
 Shanghai, China
 
-Elaine Dzierzak, PhD <br/></br>
+Elaine Dzierzak, PhD
 Director, Regenerative Medicine Center
 University of Edinburgh
 Edinburg, Scotland
 
-Alfred Slanetz, PhD <br/></br>
+Alfred Slanetz, PhD
 President and CEO
 Geneius Biotechnology
 Natick, MA
 
-Ken LeClair, PhD <br/></br>
+Ken LeClair, PhD
 CTO, Chief Technical Officer
 Lycan Biosciences (cell therapy company)
 Hopkinton, MA
 
-Scott Rollins, PhD (postdoc) <br/></br>
+Scott Rollins, PhD (postdoc)
 Chairman and CEO
 Tetherex Pharmaceuticals
 Oklahoma City, OK
 
-Nancy Maizels, PhD (postdoc) <br/></br>
+Nancy Maizels, PhD (postdoc)
 Professor, Dept. of Immunology
 University of Washington
 Seattle, WA
 
-Dean Ballard, PhD (postdoc) <br/></br>
+Dean Ballard, PhD (postdoc)
 Professor of Microbiology &amp; Immunology
 Vanderbilt University
 Memphis, TN
 
-Russell Rother, PhD (postdoc) <br/></br>
+Russell Rother, PhD (postdoc
 President and COO
 Tetherex Pharmaceuticals
 Oklahoma City, OK
 
-Nataki Douglas, MD/PhD <br/></br>
+Nataki Douglas, MD/PhD
 Professor, Department of Obstetrics, Gynecology and Women’s Health
 Director of Translational Medicine
 Center for Immunity and Inflammation
 Institute for Infectious and Inflammatory Diseases
 New Jersey School of Medicine
 Trenton, NJ
+
 Sang-Kyou Lee, PhD
 Professor, Dept. of Biotechnology
 Yonsei University
 CEO, Good T Cells
 Seoul, Republic of Korea
+
 Young Sang Kim, Ph.D. (postdoc)
 Professor, Department of Biochemistry
 Dean, College of Natural Sciences
 Chungnam National University
 Former President of Korean Association of Immunology
 Daejon, Republic of Korea
+
 Basel al-Ramadi, PhD FRCPath (postdoc)
 Professor and Chair
 Department of Medical Microbiology &amp; Immunology
 College of Medicine &amp; Health Sciences
 UAE University
+
 Al Ain, United Arab Emirates
 Mehran Khodadoust, PhD
 President and CEO
@@ -127,33 +131,40 @@ Senior Research Scientist (Medicine/Endocrinology)
 Director, Diabetes Research Center Molecular Core
 Yale University School of Medicine
 New Haven, CT
+
 Yalai Bai, PhD (postdoc)
 Research Scientist, Pathology Dept.
 Yale University School of Medicine
 New Haven, CT
+
 Arnar Giersson, M.D. (Resident in Surgery)
 Chief of Cardiothoracic Surgery
 Yale University School of Medicine
 New Haven, CT
+
 Zuzana Tobiasova, PhD (postdoc)
 Associate Research Scientist
 Yale University School of Medicine
 New Haven, CT
+
 Wook-Jin Chae, PhD (postdoc)
 Assistant Professor 
 Harrison Scholar, Massey Cancer Center School of Medicine 
 Department of Microbiology and Immunology 
 Virginia Commonwealth University 
 Richmond, VA
+
 Je-Min Choi, Ph.D. (postdoc)
 Professor of Immunology
 Chair, Department of Life Science, Hanyang University
 Seoul, Republic of Korea
+
 Ashley Viehmann Milam, PhD
 Assistant Professor
 Dept. of Biology
 St. Louis University
 St. Louis, MO
+
 Jae Hun Shin. PhD
 Postdoc, Section of Endocrinology and Metabolism
 Department of Internal Medicine
