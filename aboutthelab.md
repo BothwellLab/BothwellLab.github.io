@@ -33,7 +33,7 @@ ORCID: [0000-0001-9079-0787](https://orcid.org/0000-0001-9079-0787)
 ### Graduate Student and Research Assistant
 #### Email: hmarcarian@arizona.edu
 <img src="/assets/img/haley-marcarian-headshot.jpg" align = right height = 200 style = "padding: 10px"/>
-Haley Marcarian received her bachelors of science from the University of Arizona Honors College in Molecular and Cellular Biology in the Spring of 2021. During her undergraduate career, Haley was as an undergraduate research assistant investigating the intersection of catabolism and anabolism in the Gcv3 protein in yeast. She also was a preceptor and teaching assistant in the Molecular Biology teaching labs at the U of A, and participated as a Toxicology and Animal Resources intern at Incyte.
+Haley Marcarian received her bachelors of science from the University of Arizona Honors College in Molecular and Cellular Biology in the Spring of 2021. During her undergraduate career, Haley was as an undergraduate research assistant investigating the intersection of catabolism and anabolism in the Gcv3 protein in yeast. She also was a preceptor and teaching assistant in the Molecular Biology teaching labs at the U of A, and participated as a Toxicology and Animal Resources intern at Incyte.\
 LinkedIn: [Haley Marcarian](https://www.linkedin.com/in/haley-marcarian-23253318a/)
 
 ## Anutr Sivakoses
