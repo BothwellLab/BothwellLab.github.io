@@ -9,7 +9,7 @@ subtitle: Meet our amazing lab personnel!
 ### Principal Investigator
 #### Email: abothwell@arizona.edu
 <img src="/assets/img/bothwell.jpg" align = right height = "300" style = "padding: 10px" />Dr. Bothwell received his AB from Washington University and his PhD from Yale University in Sidney Altman’s lab studying RNA biogenesis in bacteria and human cells.  He did postdoctoral research at MIT in David Baltimore’s lab where he developed molecular probes for all mouse antibody genes and defined molecular properties of the murine antibody response.  He joined the Yale Medical School faculty and has studied basic properties of lymphocytes and their receptors in mouse models of infection, autoimmunity, transplantation and novel humanized mouse models of vascular disease, type 1 diabetes and cancer.\
-ORCID: [0000-0003-2477-2104](https://orcid.org/0000-0003-2477-2104)\
+ORCID: [0000-0003-2477-2104](https://orcid.org/0000-0003-2477-2104)
 
 # Postdoctoral Fellows
 ## Dr. Martha Dua-Awereh, PhD
@@ -52,47 +52,47 @@ Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)\
 Anika received her bachelors of science in Biochemistry, Molecular and Cellular Biology from the University of Arizona in the Spring of 2022. During her undergraduate career, she worked as a research assistant in the Woodson lab, studying the production of Arabidopsis quadruple mutants. She decided on the Bothwell Lab for her UROC MHD Summer Lab Experience because the field of cancer biology was very interesting to her, as her favorite class during her undergraduate career was cancer biology. She later rejoined the Bothwell Lab as a research technician in September of 2022.\
 
 # Lab Alumni
-Bing Su, PhD
+#### Bing Su, PhD
 Director, Shanghai Institute of Immunology
 Shanghai JiaoTong University School of Medicine
 Shanghai, China
 
-Elaine Dzierzak, PhD
+#### Elaine Dzierzak, PhD
 Director, Regenerative Medicine Center
 University of Edinburgh
 Edinburg, Scotland
 
-Alfred Slanetz, PhD
+#### Alfred Slanetz, PhD
 President and CEO
 Geneius Biotechnology
 Natick, MA
 
-Ken LeClair, PhD
+#### Ken LeClair, PhD
 CTO, Chief Technical Officer
 Lycan Biosciences (cell therapy company)
 Hopkinton, MA
 
-Scott Rollins, PhD (postdoc)
+#### Scott Rollins, PhD (postdoc)
 Chairman and CEO
 Tetherex Pharmaceuticals
 Oklahoma City, OK
 
-Nancy Maizels, PhD (postdoc)
+#### Nancy Maizels, PhD (postdoc)
 Professor, Dept. of Immunology
 University of Washington
 Seattle, WA
 
-Dean Ballard, PhD (postdoc)
+#### Dean Ballard, PhD (postdoc)
 Professor of Microbiology &amp; Immunology
 Vanderbilt University
 Memphis, TN
 
-Russell Rother, PhD (postdoc
+#### Russell Rother, PhD (postdoc
 President and COO
 Tetherex Pharmaceuticals
 Oklahoma City, OK
 
-Nataki Douglas, MD/PhD
+#### Nataki Douglas, MD/PhD
 Professor, Department of Obstetrics, Gynecology and Women’s Health
 Director of Translational Medicine
 Center for Immunity and Inflammation
@@ -100,71 +100,71 @@ Institute for Infectious and Inflammatory Diseases
 New Jersey School of Medicine
 Trenton, NJ
 
-Sang-Kyou Lee, PhD
+#### Sang-Kyou Lee, PhD
 Professor, Dept. of Biotechnology
 Yonsei University
 CEO, Good T Cells
 Seoul, Republic of Korea
 
-Young Sang Kim, Ph.D. (postdoc)
+#### Young Sang Kim, Ph.D. (postdoc)
 Professor, Department of Biochemistry
 Dean, College of Natural Sciences
 Chungnam National University
 Former President of Korean Association of Immunology
 Daejon, Republic of Korea
 
-Basel al-Ramadi, PhD FRCPath (postdoc)
+#### Basel al-Ramadi, PhD FRCPath (postdoc)
 Professor and Chair
 Department of Medical Microbiology &amp; Immunology
 College of Medicine &amp; Health Sciences
 UAE University
 
-Al Ain, United Arab Emirates
+#### Al Ain, United Arab Emirates
 Mehran Khodadoust, PhD
 President and CEO
 Vexo Pharmaceuticals
 Dubai, United Arab Emirates
 
-Bill Philbrick, PhD (postdoc)
+#### Bill Philbrick, PhD (postdoc)
 Senior Research Scientist (Medicine/Endocrinology)
 Director, Diabetes Research Center Molecular Core
 Yale University School of Medicine
 New Haven, CT
 
-Yalai Bai, PhD (postdoc)
+#### Yalai Bai, PhD (postdoc)
 Research Scientist, Pathology Dept.
 Yale University School of Medicine
 New Haven, CT
 
-Arnar Giersson, M.D. (Resident in Surgery)
+#### Arnar Giersson, M.D. (Resident in Surgery)
 Chief of Cardiothoracic Surgery
 Yale University School of Medicine
 New Haven, CT
 
-Zuzana Tobiasova, PhD (postdoc)
+#### Zuzana Tobiasova, PhD (postdoc)
 Associate Research Scientist
 Yale University School of Medicine
 New Haven, CT
 
-Wook-Jin Chae, PhD (postdoc)
+#### Wook-Jin Chae, PhD (postdoc)
 Assistant Professor 
 Harrison Scholar, Massey Cancer Center School of Medicine 
 Department of Microbiology and Immunology 
 Virginia Commonwealth University 
 Richmond, VA
 
-Je-Min Choi, Ph.D. (postdoc)
+#### Je-Min Choi, Ph.D. (postdoc)
 Professor of Immunology
 Chair, Department of Life Science, Hanyang University
 Seoul, Republic of Korea
 
-Ashley Viehmann Milam, PhD
+#### Ashley Viehmann Milam, PhD
 Assistant Professor
 Dept. of Biology
 St. Louis University
 St. Louis, MO
 
-Jae Hun Shin. PhD
+#### Jae Hun Shin. PhD
 Postdoc, Section of Endocrinology and Metabolism
 Department of Internal Medicine
 Yale University School of Medicine
