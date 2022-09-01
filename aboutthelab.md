@@ -19,7 +19,8 @@ ORCID: [0000-0003-2477-2104](https://orcid.org/0000-0003-2477-2104)
 Martha just completed her PhD with Yana Zavros in CMM although her degree is from the Dept. of
 Systems Biology and Physiology at the University of Cincinnati School of Medicine.\
 ORCID: [0000-0002-9348-6497](https://orcid.org/0000-0002-9348-6497)
-
+<br/> </br>
+<br/> </br>
 ## Dr. Olivia Ihedioha, DVM, PhD
 ### Postdoctoral Fellow
 #### Email: ihedioha@arizona.edu
@@ -27,8 +28,8 @@ ORCID: [0000-0002-9348-6497](https://orcid.org/0000-0002-9348-6497)
 Olivia just completed her PhD in the fall from Western College of Veterinary Medicine, University of
 Saskatchewan, and she joined the lab in May 2022.\
 ORCID: [0000-0001-9079-0787](https://orcid.org/0000-0001-9079-0787)
-
-
+<br/> </br>
+<br/> </br>
 # Graduate Students
 ## Haley Marcarian
 ### Graduate Student and Research Assistant
