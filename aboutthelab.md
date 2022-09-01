@@ -23,6 +23,7 @@ ORCID: [0000-0002-9348-6497](https://orcid.org/0000-0002-9348-6497)
 ## Dr. Olivia Ihedioha, DVM, PhD
 ### Postdoctoral Fellow
 #### Email: ihedioha@arizona.edu
+<img src="/assets/img/olivia-ihedioha-headshot.jpeg" align = right height = 200 style = "padding: 10px"/>
 Olivia just completed her PhD in the fall from Western College of Veterinary Medicine, University of
 Saskatchewan, and she joined the lab in May 2022.\
 ORCID: [0000-0001-9079-0787](https://orcid.org/0000-0001-9079-0787)
