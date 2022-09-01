@@ -8,26 +8,25 @@ subtitle: Meet our amazing lab personnel!
 ## Dr. Alfred LM Bothwell (He/Him/His)
 ### Principal Investigator
 #### Email: abothwell@arizona.edu
-<img src="/assets/img/bothwell.jpg" align = right height = "300" style = "padding: 10px" />Dr. Bothwell received his AB from Washington University and his PhD from Yale University in Sidney Altman’s lab studying RNA biogenesis in bacteria and human cells.  He did postdoctoral research at MIT in David Baltimore’s lab where he developed molecular probes for all mouse antibody genes and defined molecular properties of the murine antibody response.  He joined the Yale Medical School faculty and has studied basic properties of lymphocytes and their receptors in mouse models of infection, autoimmunity, transplantation and novel humanized mouse models of vascular disease, type 1 diabetes and cancer.<br/><br/>
-
+<img src="/assets/img/bothwell.jpg" align = right height = "300" style = "padding: 10px" />Dr. Bothwell received his AB from Washington University and his PhD from Yale University in Sidney Altman’s lab studying RNA biogenesis in bacteria and human cells.  He did postdoctoral research at MIT in David Baltimore’s lab where he developed molecular probes for all mouse antibody genes and defined molecular properties of the murine antibody response.  He joined the Yale Medical School faculty and has studied basic properties of lymphocytes and their receptors in mouse models of infection, autoimmunity, transplantation and novel humanized mouse models of vascular disease, type 1 diabetes and cancer.
 ORCID: [0000-0003-2477-2104](https://orcid.org/0000-0003-2477-2104)
 <br/><br/>
 <br/><br/>
 
 # Postdoctoral Fellows
-## Dr. Martha Dua-Awereh
+## Dr. Martha Dua-Awereh, PhD
 ### Postdoctoral Fellow
 #### Email: mduaawereh@arizona.edu
 <img src="/assets/img/martha-dua-awereh-headshot.jpeg" align = right height = 200 style = "padding: 10px"/>
 Martha just completed her PhD with Yana Zavros in CMM although her degree is from the Dept. of
-Systems Biology and Physiology at the University of Cincinnati School of Medicine. <br/><br/>
+Systems Biology and Physiology at the University of Cincinnati School of Medicine.
 ORCID: [0000-0002-9348-6497](https://orcid.org/0000-0002-9348-6497)
 
-## Dr. Olivia Ihedioha
+## Dr. Olivia Ihedioha, DVM, PhD
 ### Postdoctoral Fellow
 #### Email: ihedioha@arizona.edu
 Olivia just completed her PhD in the fall from Western College of Veterinary Medicine, University of
-Saskatchewan, and she joined the lab in May 2022. <br/><br/>
+Saskatchewan, and she joined the lab in May 2022.
 ORCID: [0000-0001-9079-0787](https://orcid.org/0000-0001-9079-0787)
 <br/><br/>
 
@@ -37,14 +36,15 @@ ORCID: [0000-0001-9079-0787](https://orcid.org/0000-0001-9079-0787)
 #### Email: hmarcarian@arizona.edu
 <img src="/assets/img/haley-marcarian-headshot.jpg" align = right height = 200 style = "padding: 10px"/>
 Haley Marcarian received her bachelors of science from the University of Arizona Honors College in Molecular and Cellular Biology in the Spring of 2021. During her undergraduate career, Haley was as an undergraduate research assistant investigating the intersection of catabolism and anabolism in the Gcv3 protein in yeast. She also was a preceptor and teaching assistant in the Molecular Biology teaching labs at the U of A, and participated as a Toxicology and Animal Resources intern at Incyte.
+LinkedIn: LinkedIn: [Haley Marcarian](https://www.linkedin.com/in/haley-marcarian-23253318a/)
 
 ## Anutr Sivakoses
 ### Graduate Student and Research Assistant
 #### Email: asivakoses@arizona.edu
 <img src="/assets/img/anutr-sivakoses-headshot.jpg" align = right height = 200 style = "padding: 10px"/>
-Anutr Sivakoses received his bachelors of science from the University of Nevada, Reno Honors College in Biochemistry and Molecular Biology in the Spring of 2021. In his undergraduate laboratory, he worked under Drs. Heather Burkin and Dr. Craig Ulrich to develop a three-dimensional model of human myometrial tissue. Anutr joined Dr. Bothwell's lab in the Spring of 2022 to study cancer immunology for his PhD degree. <br/><br/>
-ORCID: [0000-0002-4321-4645](https://orcid.org/0000-0002-4321-4645)\
-LinkedIn: [Anutr Sivakoses](https://www.linkedin.com/in/anutr-sivakoses/)\
+Anutr Sivakoses received his bachelors of science from the University of Nevada, Reno Honors College in Biochemistry and Molecular Biology in the Spring of 2021. In his undergraduate laboratory, he worked under Drs. Heather Burkin and Dr. Craig Ulrich to develop a three-dimensional model of human myometrial tissue. Anutr joined Dr. Bothwell's lab in the Spring of 2022 to study cancer immunology for his PhD degree.
+ORCID: [0000-0002-4321-4645](https://orcid.org/0000-0002-4321-4645) \
+LinkedIn: [Anutr Sivakoses](https://www.linkedin.com/in/anutr-sivakoses/) \
 Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)<br/></br>
 
 # Research Staff
