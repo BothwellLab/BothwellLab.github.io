@@ -44,8 +44,7 @@ Haley Marcarian received her bachelors of science from the University of Arizona
 Anutr Sivakoses received his bachelors of science from the University of Nevada, Reno Honors College in Biochemistry and Molecular Biology in the Spring of 2021. In his undergraduate laboratory, he worked under Drs. Heather Burkin and Dr. Craig Ulrich to develop a three-dimensional model of human myometrial tissue. Anutr joined Dr. Bothwell's lab in the Spring of 2022 to study cancer immunology for his PhD degree. <br/><br/>
 ORCID): [0000-0002-4321-4645](https://orcid.org/0000-0002-4321-4645)\
 LinkedIn: [Anutr Sivakoses](https://www.linkedin.com/in/anutr-sivakoses/)\
-Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)
-<br/></br>
+Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)<br/></br>
 
 # Research Staff
 ## Anika Arias
