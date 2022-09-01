@@ -18,6 +18,7 @@ ORCID: [0000-0003-2477-2104](https://orcid.org/0000-0003-2477-2104)
 ## Dr. Martha Dua-Awereh
 ### Postdoctoral Fellow
 #### Email: mduaawereh@arizona.edu
+<img src="/assets/img/martha-dua-awereh-headshot.jpeg" align = right height = 200 style = "padding: 10px"/>
 Martha just completed her PhD with Yana Zavros in CMM although her degree is from the Dept. of
 Systems Biology and Physiology at the University of Cincinnati School of Medicine. <br/><br/>
 ORCID: [0000-0002-9348-6497](https://orcid.org/0000-0002-9348-6497)
