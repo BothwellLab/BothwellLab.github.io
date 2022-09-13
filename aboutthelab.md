@@ -53,6 +53,7 @@ Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)\
 # Research Staff
 ## Anika Arias
 ### Research Technician 
+<img src="/assets/img/anika-arias-headshot.jpg" align = right height = 200 style = "padding: 10px"/>
 Anika received her bachelors of science in Biochemistry, Molecular and Cellular Biology from the University of Arizona in the Spring of 2022. During her undergraduate career, she worked as a research assistant in the Woodson lab, studying the production of Arabidopsis quadruple mutants. She decided on the Bothwell Lab for her UROC MHD Summer Lab Experience because the field of cancer biology was very interesting to her, as her favorite class during her undergraduate career was cancer biology. She later rejoined the Bothwell Lab as a research technician in September of 2022.\
 
 # Lab Alumni
