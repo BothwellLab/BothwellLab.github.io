@@ -30,4 +30,4 @@ Dr. Martha Dua-Awereh (Postdoc): mduaawereh@arizona.edu\
 Dr. Olivia Ihedioha (Postdoc): ihedioha@arizona.edu\
 Haley Marcarian (CBIO PhD Student, 2nd Year): hmarcarian@arizona.edu\
 Anutr Sivakoses (CBIO PhD Student, 2nd Year): asivakoses@arizona.edu\
-Anika Arias (Research Technician): anikatriplet1@arizona.edu\
+Anika Arias (Research Technician): anikatriplet1@arizona.edu
