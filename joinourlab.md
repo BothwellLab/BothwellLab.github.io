@@ -12,8 +12,8 @@ There are currently no listings for postdoctoral scholars. Please check back as 
 If you are interested in rotating in the Bothwell lab, please contact Dr. Bothwell or one of the other members of the lab. We are typically open to rotations if you were interested in learning techniques, methods, etc., but funding to support a graduate student varies year-to-year.
 
 ### Future Graduate Students
-Individuals interested in doing their graduate education in the Bothwell lab should apply to the [ABBS Program PhD](https://abbs.arizona.edu) and complete three lab rotations, with one of them being in the Bothwell Lab.\
-Dr. Bothwell holds joint appointments in the Genetics GIDP, and Cancer Biology GIDP, and Immunobiology programs. Only the Genetics GIDP 
+Individuals interested in doing their graduate education in the Bothwell lab should apply to the [ABBS Program PhD Program](https://abbs.arizona.edu) and complete three lab rotations, with one of them being in the Bothwell Lab.\
+Dr. Bothwell holds joint appointments in the Genetics GIDP, and Cancer Biology GIDP, and Immunobiology programs. Only the Genetics GIDP accepts direct admit students. Students interested in joining the Cancer Biology GIDP or Immunobiology program must apply to ABBS.  
 
 ### Research Technicians and Lab Managers
 There are currently no listings for Research Technicians or Lab Managers. 
