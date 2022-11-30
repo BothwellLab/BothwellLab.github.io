@@ -1,3 +1,8 @@
+---
+layout: page
+title: Join Our Lab
+subtitle: Interested in joining our lab? 
+---
 
 # Interesting in joining the Bothwell Lab at the University of Arizona?
 ### Postdoctoral Associates
