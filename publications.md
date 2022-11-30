@@ -1,7 +1,7 @@
 ---
 layout: page
-title:Recent Publications
-subtitle: For a more comprehensive list of papers, please check PubMed Central or contact Dr. Alfred Bothwell
+title: Recent Publications
+subtitle:
 ---
 
 # 2021
