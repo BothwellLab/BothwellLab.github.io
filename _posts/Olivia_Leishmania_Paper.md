@@ -10,4 +10,4 @@ tags: [papers]
 
 Congratulations to our postdoctoral scholar Olivia who has published her paper "Leishmania major-derived lipophosphoglycan influences the host’s early immune response by inducing platelet activation and DKK1 production via TLR1/2"
 in Frontiers in Immunology!\
-Open-Access: <a href="[url](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1257046/full)">link Article Open-Access</a>
+<a href="[url](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1257046/full)">Article Open-Access</a>
