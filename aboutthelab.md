@@ -50,13 +50,18 @@ ORCID: [0000-0002-4321-4645](https://orcid.org/0000-0002-4321-4645)\
 LinkedIn: [Anutr Sivakoses](https://www.linkedin.com/in/anutr-sivakoses/)\
 Twitter: [@anutr_sivakoses](https://twitter.com/anutr_sivakoses)
 
-# Research Staff
-## Anika Arias
-### Research Technician 
-<img src="/assets/img/anika-arias-headshot.jpg" align = right height = 200 style = "padding: 10px"/>
-Anika received her bachelors of science in Biochemistry, Molecular and Cellular Biology from the University of Arizona in the Spring of 2022. During her undergraduate career, she worked as a research assistant in the Woodson lab, studying the production of Arabidopsis quadruple mutants. She decided on the Bothwell Lab for her UROC MHD Summer Lab Experience because the field of cancer biology was very interesting to her, as her favorite class during her undergraduate career was cancer biology. She later rejoined the Bothwell Lab as a research technician in September of 2022.
-
 # Lab Alumni
+#### Malini Sajeev
+Visiting Masters Student
+MS Cellular and Molecular Medicine
+University of Arizona and Amrita School of Biotechnology
+Coimbatore, India
+
+#### Anika Arias
+PhD Student, Arizona Biological and Biomedical Sciences
+The University of Arizona
+Tucson, AZ
+
 #### Bing Su, PhD
 Director, Shanghai Institute of Immunology
 Shanghai JiaoTong University School of Medicine
